@@ -58,16 +58,16 @@ Se hvad andre mennesker skriver om bogen ved at klikke på linket for at søge e
 ## Top part = "About the book" above
 
 ## Attribution 1
-"Henrik har virkeligt et talent. Han er i stand til hurtigt at lære, og derefter forklare nuancerede og komplekse emner på måder, der med det samme giver genklang hos folk. Og der er formodentligt ikke noget vigtigere emne at anvende dette talent på end generativ AI. Jeg håber, du vil læse denne bog og dele den med dine kolleger."
+"Henrik har virkeligt et talent. Han er i stand til hurtigt at lære og derefter forklare nuancerede og komplekse emner på måder, der med det samme giver genklang hos folk. Og der er formodentligt ikke noget vigtigere emne at anvende dette talent på end generativ AI. Jeg håber, du vil læse denne bog og dele den med dine kollegaer."
 — Marty Cagan, stifter af Silicon Valley Product Group
 
 ## Attribution 2
-"Denne bog er fantastisk! Det der gør bogen unik er tre ting: (1) Indholdet er ikke bare godt, men præsenteret uformelt og let forståeligt; (2) Skrivestilen: jeg elsker den! Alt for meget af det, der skrives om AI i dag, er næsten ulæseligt; og (3) Helt klart de vidunderlige, legende illustrationer."
+"Denne bog er fantastisk! Det der gør bogen unik er tre ting: 1. Indholdet er ikke bare godt, men præsenteret uformelt og let forståeligt. 2. Skrivestilen: Jeg elsker den! Alt for meget af det, der skrives om AI i dag, er næsten ulæseligt, og 3. Helt klart de vidunderlige, legende illustrationer."
 — Jim Highsmith, medforfatter til det Agile Manifest
 
 ## Attribution 3
 "Det smukke ved denne bog er, at Henrik leder os ad en vej, hvor han er to skridt foran. Vi vil alle blive påvirket af generativ AI. Så jo før vi alle begynder at styre bilen i stedet for bare at blive kørt, jo før kan vi genvinde en følelse af handlekraft. Denne bog giver dig de værktøjer, du har brug for til at overvinde panik eller passivitet."
-— Kent Beck, Software Development Pioneer, skaber af Extreme Programming
+— Kent Beck, Software Design Pioneer, skaber af Extreme Programming (XP)
 
 ## Attribution 4
 "Jeg har lært Henrik alt, hvad han ved om AI. Altså, bortset fra de dele, han misforstod. Og tro mig, jeg kunne have skrevet hele denne bog på få sekunder, men han ville ikke lade mig gøre det."
