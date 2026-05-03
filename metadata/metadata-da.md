@@ -36,7 +36,7 @@ Denne bog kan købes via https://leanpub.com/ainutshell-da
 ## Published on
 Denne version blev offentliggjort den (date set automatically by Leanpub)
 ## About Leanpub
-Dette er en bog fra Leanpub. Leanpub hjælper forfattere og udgivere med at være i fuld kontrol via Lean Publishing-processen. Lean Publishing gør det let at publicere en e-bog som er under udarbejdelse ved hjælp af brugervenlige værktøjer. Det gør at du via hurtige iterationer kan få læserfeedback og dermed tilpasse og forbedre løbende indtil du har den helt rigtige bog. Når du har den, er det derefter nemt at publicere bogen bredt.
+Dette er en bog fra [Leanpub])https://leanpub.com/). Leanpub hjælper forfattere og udgivere med at være i fuld kontrol via Lean Publishing-processen. [Lean Publishing](https://leanpub.com/manifesto) gør det let at publicere en e-bog under udarbejdelse ved hjælp af brugervenlige værktøjer. Det gør at du via hurtige iterationer kan få læserfeedback og dermed tilpasse og forbedre løbende indtil du har den helt rigtige bog. Når du har den, er det derefter nemt at publicere bogen bredt.
 
 ## Copyright = (Set automatically by Leanpub)
 
